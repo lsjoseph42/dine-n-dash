@@ -45,4 +45,8 @@ def dec():
 def hello(name: str):
     return f"Hello {name}! 👋"
 
+@rt("/hello", methods=["POST"])
+def hello(name: str):
+    return f"Hello {name}! 👋"
+
 serve(port=5002) 

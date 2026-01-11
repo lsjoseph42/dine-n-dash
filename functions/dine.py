@@ -57,6 +57,9 @@ def generate_signed_qr_code(receipt_dict: dict):
 
     print(f"Receipt token: {token}")
 
+# Dash
+
+
 def read_signed_url(url: str):
     # TODO: Parse URL and dict from server
     pass
