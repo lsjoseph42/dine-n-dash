@@ -66,4 +66,4 @@ def read_signed_url(url: str):
 
 if __name__ == "__main__":
     image_path = "data/IMG_6756.jpg"
-    main(image_path)
+    main(image_path) 
