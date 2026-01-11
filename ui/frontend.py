@@ -32,5 +32,3 @@ def index():
     )
 
 serve(port=5002) 
-
-
