@@ -2,3 +2,4 @@ monsterui
 google-genai
 python-fasthtml
 itsdangerous
+googlemaps
